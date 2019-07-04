@@ -1,0 +1,6 @@
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\bin\Debug\Library.dll
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\bin\Debug\Library.pdb
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\obj\Debug\Library.csprojAssemblyReference.cache
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\obj\Debug\Library.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\obj\Debug\Library.dll
+C:\Users\julia\source\repos\GeneticSequenceCollectorForSs13\Library\obj\Debug\Library.pdb
